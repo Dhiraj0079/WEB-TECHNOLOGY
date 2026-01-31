@@ -24,3 +24,20 @@ console.log(Math.ceil(4.6));//choose top values
 console.log(Math.floor(4.6));//lowest value
 console.log(Math.min(4,5,6,7));
 console.log(Math.max(4,5,6,7));
+// Checks if a value is NOT a number
+let value = "hello";
+
+console.log(isNaN(value)); // true// - Validate user input
+
+
+// Returns power of a number
+console.log(Math.pow(2, 3)); // 8// - Exponential calculations
+
+// Generates a random number between 0 (inclusive) and 1 (exclusive)
+console.log(Math.random());
+
+
+
+
+
+
